@@ -1,4 +1,5 @@
 # Medical-Diagnosis
+
 # 🏥 Disease Prediction App
 
 A **Streamlit-based** web application that predicts the likelihood of various diseases, including **Diabetes, Heart Disease, Parkinson’s, Lung Cancer, and Hypothyroidism**, using trained **Machine Learning models**.
@@ -42,8 +43,8 @@ A **Streamlit-based** web application that predicts the likelihood of various di
 
 1. **Clone the repository**
    ```sh
-   git clone https://github.com/yourusername/disease-prediction.git
-   cd disease-prediction
+   git clone https://github.com/kassasanathkumar/Medical-Diagnosis.git
+   cd Medical-Diagnosis
    ```
 
 2. **Install dependencies**
@@ -64,10 +65,8 @@ Each prediction is powered by **trained machine learning models**:
 - **Lung Cancer:** Checks lifestyle factors like smoking, anxiety, and coughing.
 - **Hypothyroidism:** Evaluates thyroid hormone levels to detect thyroid disorders.
 
-
 ## 🤝 Contributing
 If you'd like to contribute, feel free to **fork the repository** and submit a **pull request**!
-
 
 ---
 ### 🔗 Connect with Me  
